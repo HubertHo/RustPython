@@ -784,8 +784,7 @@ dependencies = [
 [[package]]
 name = "flate2"
 version = "1.0.19"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7411863d55df97a419aa64cb4d2f167103ea9d767e2c54a1868b7ac3f6b47129"
+source = "git+https://github.com/rust-lang/flate2-rs#d70165c6620311153f9c364a8df43ee4d2e2bdf9"
 dependencies = [
  "cfg-if 1.0.0",
  "crc32fast",
