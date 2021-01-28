@@ -1981,6 +1981,7 @@ dependencies = [
  "libz-sys",
  "log",
  "md-5",
+ "memchr",
  "mt19937",
  "nix",
  "num-bigint",
